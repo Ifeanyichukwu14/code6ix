@@ -1,0 +1,35 @@
+body{
+    background-color: white;
+}
+.header{
+    background-color:black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding: 70px;
+    font-size: xx-large;
+}
+.content{
+    display: flex;
+}
+.content .info h1{
+    color: black;
+    font-size: 55px;
+    /* text-transform: uppercase; */
+    font-weight: 100;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 2px;
+    line-height: 60px;
+    margin-bottom: 30px;
+}
+.content .info p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    line-height: normal;
+    font-size: 20px;
+}
+img{
+    width: 500px;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
